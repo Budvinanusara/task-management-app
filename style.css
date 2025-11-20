@@ -10,18 +10,10 @@
     --shadow-light: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 @keyframes colorShift {
-<<<<<<< HEAD
     0% { background-position: 0% 50%; } 
     50% { background-position: 100% 50%; } 
     100% { background-position: 0% 50%; }
 }
-=======
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-
->>>>>>> c0e3b20d11d862298979d8a25210378e3d2020dc
 * {
     box-sizing: border-box;
     margin: 0;
